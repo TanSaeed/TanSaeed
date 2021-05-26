@@ -40,7 +40,6 @@ You can click the Preview link to take a look at your changes.
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Lightroom](https://img.shields.io/badge/-lightroom-333333?style=flat&logo=adobe-lightroom)
   
-  <h3>☕ &nbsp;Get in touch</h3>
   
 <h3>☕ &nbsp;Get in touch</h3>
   
