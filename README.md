@@ -3,7 +3,7 @@ TanSaeed/TanSaeed is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi!
+# Hi from Tanzeel Saeed
 
 <img align="right" alt="GIF" height="160px" src="https://media4.giphy.com/media/SEO7ub2q1fORa/giphy.gif" />
 
@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - Hi, I’m Tanzeel Saeed!
 - I’m currently learning everything about Frontend and Backend technologies.
+- I dream to become a great software engineer. 
 - Fun fact: I love acting & video games.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
