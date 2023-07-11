@@ -43,14 +43,6 @@ You can click the Preview link to take a look at your changes.
   
 <h3>☕ &nbsp;Get in touch</h3>
   
-- <a href="https://twitter.com/tanzsaeed">
-  <img align="left" alt="Tanzeel Saeed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-- <a href="https://www.linkedin.com/in/tanzeel-saeed/">
-  <img align="left" alt="Tanzeel Saeed | Linkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-- <a href="https://www.instagram.com/tanzsaeed/">
-  <img align="left" alt="Tanzeel Saeed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
----
+- <a href="https://www.linkedin.com/in/tanzeel-saeed/">Linkedin</a>
+
   
