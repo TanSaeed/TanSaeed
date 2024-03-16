@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi from Tanzeel Saeed
 
-<img align="right" alt="GIF" height="160px" src="https://media.tenor.com/vmSP8owuOYYAAAAM/huh-cat-huh-m4rtin.gif" style="margin-top: 20px;" />
+<img align="right" alt="GIF" height="160px" src="https://media.tenor.com/vmSP8owuOYYAAAAM/huh-cat-huh-m4rtin.gif" style="margin-top: 40px;" />
 
 ## I'm a Computer Science Graduate
 
