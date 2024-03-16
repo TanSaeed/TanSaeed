@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 # Hi from Tanzeel Saeed
 
-<img align="right" alt="GIF" height="160px" src="https://media.tenor.com/vmSP8owuOYYAAAAM/huh-cat-huh-m4rtin.gif" style="margin-top: 40px;" />
 
 ## I'm a Computer Science Graduate
 
@@ -13,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 - I’m currently learning everything about Frontend and Backend technologies.
 - I dream to become a great software engineer. 
 - Fun fact: I love acting & video games.
+  <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/vmSP8owuOYYAAAAM/huh-cat-huh-m4rtin.gif"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
