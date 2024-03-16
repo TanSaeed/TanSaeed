@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi from Tanzeel Saeed
 
-<img align="right" alt="GIF" height="160px" src"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVpZ2h6bTY0MmF1Y2s1bGdrcmY0M2RzeXo0Z3drd3NoNDF1d2ZwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRk3GLfzduq1NtfGt5/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVpZ2h6bTY0MmF1Y2s1bGdrcmY0M2RzeXo0Z3drd3NoNDF1d2ZwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRk3GLfzduq1NtfGt5/giphy.gif" />
 
 ## I'm a Computer Science Graduate
 
