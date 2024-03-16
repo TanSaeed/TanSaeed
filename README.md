@@ -5,8 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi from Tanzeel Saeed
 
-<iframe src="https://giphy.com/embed/GRk3GLfzduq1NtfGt5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BlackRosesPlayingCards-cat-meme-surprise-GRk3GLfzduq1NtfGt5">via GIPHY</a></p>
-<img align="right" alt="GIF" height="160px" src="https://media4.giphy.com/media/SEO7ub2q1fORa/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVpZ2h6bTY0MmF1Y2s1bGdrcmY0M2RzeXo0Z3drd3NoNDF1d2ZwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRk3GLfzduq1NtfGt5/giphy.gif" />
 
 ## I'm a Computer Science Graduate
 
