@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi from Tanzeel Saeed
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/GRk3GLfzduq1NtfGt5/giphy.gif"/>
+<img align="right" alt="GIF" height="160px" src="!https://media.giphy.com/media/GRk3GLfzduq1NtfGt5/giphy.gif"/>
 
 ## I'm a Computer Science Graduate
 
